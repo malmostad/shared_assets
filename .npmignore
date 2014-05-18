@@ -1,5 +1,6 @@
-.*
-/README.md
-/bower.json
-/node_modules
-/bower_components
+.gitignore
+.npmignore
+README.md
+bower.json
+node_modules
+bower_components
