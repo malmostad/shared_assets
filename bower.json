@@ -1,12 +1,12 @@
 {
   "name": "malmo_shared_assets",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "The City of Malmo"
   ],
   "description": "Asset utilities shared between projects at The City of Malmo",
   "main": [
-    "external.css.scss"
+    "stylesheets/external.css.scss"
   ],
   "license": "AGPL-3.0",
   "homepage": "https://github.com/malmostad/shared_assets",
