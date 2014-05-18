@@ -32,7 +32,7 @@ Add `external_malmo.scss` to the top of your own main Sass file:
 
 Or, if `external_malmo.scss` is not in your Sass load path, point to it with a relative path, e.g.:
 
-    @import '../vendor/malmo_shared_assets/malmo_external';
+    @import '../vendor/malmo_shared_assets/stylesheets/malmo_external';
 
 
 ## License
