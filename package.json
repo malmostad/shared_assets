@@ -1,6 +1,6 @@
 {
   "name": "malmo_shared_assets",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Asset utilities shared between projects at The City of Malmo",
   "main": "stylesheets/external.css.scss",
   "files": "stylesheets",
