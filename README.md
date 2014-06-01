@@ -1,7 +1,7 @@
 Shared Assets
 =============
 
-Sass variables, mixins, extends and functions that are shared between projects to build CSS files for The City of Malmo. Not to same as the [Global Assets](malmostad/global_assets) that you include in your applications web pages when they are served.
+Sass variables, mixins, extends and functions that are shared between projects to build CSS files for The City of Malmo. Not to same as the [Global Assets](https://github.com/malmostad/global_assets) that you include in your applications web pages when they are served.
 
 ## Usage
 Use [Bower](http://bower.io/) (recommended) to add the files to your git project and keeping them updated. It’s also possible to use [npm](https://www.npmjs.org/) or [Git submodule](http://git-scm.com/book/en/Git-Tools-Submodules).
