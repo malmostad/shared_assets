@@ -3,7 +3,7 @@ Shared Assets
 
 Sass variables, mixins, extends and functions that are shared between projects to build CSS files for The City of Malmo. Not to same as the [Global Assets](https://github.com/malmostad/global_assets) that you include in your applications web pages when they are served.
 
-See the *Gettings Started* and *Grids and Responsive Design* sections of the [Web Application Guidelines](http://malmostad.github.io/wag-external-v4) for usage.
+See the *Gettings Started* and *Grids and Responsive Design* sections of the [Web Application Guidelines](http://malmostad.github.io/wag-v4) for usage.
 
 ## Usage
 Use [Bower](http://bower.io/) (recommended) to add the files to your git project and keeping them updated. It’s also possible to use [npm](https://www.npmjs.org/) or [Git submodule](http://git-scm.com/book/en/Git-Tools-Submodules).
@@ -28,7 +28,7 @@ The default directory for Bower modules is `bower_components` in your project ro
     }
 
 ## Use the Sass files
-Add `external_malmo.scss` to the top of your own main Sass file:
+Add `external_malmo.scss` or `malmo_internal.scss` to the top of your own main Sass file:
 
     @import 'malmo_external';
 
