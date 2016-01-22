@@ -28,11 +28,11 @@ The default directory for Bower modules is `bower_components` in your project ro
     }
 
 ## Use the Sass files
-Add `external_malmo.scss` or `malmo_internal.scss` to the top of your own main Sass file:
+Add `malmo_external.scss` or `malmo_internal.scss` to the top of your own main Sass file:
 
     @import 'malmo_external';
 
-Or, if `external_malmo.scss` is not in your Sass load path, point to it with a relative path, e.g.:
+Or, if `malmo_external.scss` is not in your Sass load path, point to it with a relative path, e.g.:
 
     @import '../vendor/malmo_shared_assets/stylesheets/malmo_external';
 
